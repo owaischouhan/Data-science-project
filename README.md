@@ -2,7 +2,11 @@
 # Road Accident Data Analysis – Vision5 (IIT Jammu Project)
 
 ## Overview:-
-This project analyzes road accident data to identify patterns, causes, and insights for improved road safety.  
+This project analyzes **road accident data** to identify patterns, causes, and trends, aiming to improve road safety.  
+It was developed under the **IIT Jammu internship Project** and integrates **data cleaning**, **SQL querying**, and **Power BI visualization** to deliver actionable insights.
+
+
+## Team members:-
 It is developed as part of the **Vision5 IIT Jammu Project** by the team members:
 - **Mohd Owais**
 - **Iman Chandan**
@@ -18,7 +22,7 @@ The project integrates **data cleaning**, **SQL analysis**, and **Power BI visua
 - **SQL** – Querying, filtering, and aggregating datasets
 - **CSV/XLSX** – Dataset formats for storage and sharing
 
----
+
 
 ## Features
 - **Data Cleaning:** Removing duplicates, fixing missing values, and formatting columns.
