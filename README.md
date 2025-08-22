@@ -9,7 +9,7 @@ It was developed under the **IIT Jammu internship Project** and integrates **dat
 ## Team members:-
 It is developed as part of the **Vision5 IIT Jammu Project** by the team members:
 - **Mohd Owais**
-- **Iman Chandan**
+- **Imaan Chandan**
 - **Lokesh Saini**
 - **Javid Iqbal**
 
